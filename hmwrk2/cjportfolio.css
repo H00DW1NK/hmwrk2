@@ -1,0 +1,40 @@
+/* CSS Orders for CJ's Portfolio */
+
+body{
+    background-color: tomato;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-color: aliceblue;
+    margin-bottom: 10px;
+}
+
+.col-sm-4{
+    padding-top: 25px;
+}
+
+.experience {
+    text-align: center;
+    padding: 10px 0;
+}
+
+#aboutme {
+    margin: 20px;
+}
+#footer {
+    text-align: center;
+    padding: 20px;
+}
+
+.card-header{
+    text-align: center;
+}
+
+.socials{
+    text-align: center;
+}
+
+.card{
+   
+}
